@@ -1,0 +1,10 @@
+POST http://localhost:3000/
+content-type: application/json
+
+{
+    "id": "2df559",
+    "name": "Dio",
+    "email": "digao@domain.com",
+    "password": 123456,
+    "x": true
+}
